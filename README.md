@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a web developer (mostly backend developer) and currently a teacher of web development on the school/bootcamp "O'clock".
+I'm a web developer (mostly backend developer) and currently a teacher of web development in the school/bootcamp "O'clock".
 
 I have worked with PHP all my career.
 
